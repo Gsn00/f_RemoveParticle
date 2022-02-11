@@ -1,0 +1,16 @@
+[
+{
+  "modid": "removeparticle",
+  "name": "f_RemoveParticle",
+  "description": "",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["_F3RA_"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
